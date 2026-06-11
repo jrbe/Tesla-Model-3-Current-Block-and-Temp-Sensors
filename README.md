@@ -1,4 +1,4 @@
-This is a reverse engineering project of a Tesla Model 3 inverter components for EVBMW / OpenInverter drop in inveryter control board usage. This consists of the current sensor block assembly, plastic rivets, and temp sensors.  These are around high voltage components, use these models at your own risk. If it fails it could inject high voltage into the board. Basically, if you dont know what you're doing, do not use this.
+This is a reverse engineering project of a Tesla Model 3 inverter components for EVBMW / OpenInverter drop in inverter control board usage. This consists of the current sensor block assembly, plastic rivets, and temp sensors.  These are around high voltage components, use these models at your own risk. If it fails it could inject high voltage into the board. Basically, if you dont know what you're doing, do not use this.
 
 Current Sensor Main Body (nothing to hold the lids in place yet and need to verify what the toroids need to fit properly.)
 
